@@ -1,5 +1,5 @@
 {
-  "name": "custom-loopback-component-storage",
+  "name": "loopback-component-storage",
   "description": "Customized Loopback Storage Service",
   "engines": {
     "node": ">=4"
